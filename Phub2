@@ -1,0 +1,372 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+local Window = Library.CreateLib("Phub", "BloodTheme")
+
+local Tab1 = Window:NewTab("Prsion life")
+
+local Tab1Section = Tab1:NewSection("Admin")
+
+local Tab2 = Window:NewTab("KAT")
+
+local Tab2Section = Tab2:NewSection("KAT")
+
+local Tab3 = Window:NewTab("Mm2")
+
+local Tab3Section = Tab3:NewSection("Mm2")
+
+local Tab4 = Window:NewTab("Adopt me")
+
+local Tab4Section = Tab4:NewSection("Adopt me")
+
+local Tab5 = Window:NewTab("Brookhaven")
+
+local Tab5Section = Tab5:NewSection("Brookhaven")
+
+local Tab6 = Window:NewTab("Blox Fruits")
+
+local Tab6Section = Tab6:NewSection("Blox fruits")
+
+local Tab7 = Window:NewTab("MeepCity")
+
+local Tab7Section = Tab7:NewSection("Meepcity")
+
+local Tab8 = Window:NewTab("Youtube simulator Z")
+
+local Tab8Section = Tab8:NewSection("Youtube simulator Z")
+
+local Tab9 = Window:NewTab("Arceus x")
+
+local Tab9Section = Tab9:NewSection("Arceus x")
+
+local Tab10 = Window:NewTab("Universal")
+
+local Tab10Section = Tab10:NewSection("Universal")
+
+local Tab11 = Window:NewTab("Credits")
+
+local Tab11Section = Tab11:NewSection("Script By ZR.047#8444")
+
+local Tab11Section = Tab11:NewSection("✯ Hussein  ✯#9999")
+
+local Tab11Section = Tab11:NewSection("And Cristiano Ronaldo 𝐓𝐍丨#8026")
+
+local Tab11Section = Tab11:NewSection("And ZR.Riezo#2512")
+
+local Tab11Section = Tab11:NewSection("And روبـي「👑」Mx#2023")
+
+Tab1Section:NewButton("Prsion ware", "Join prsoin life", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))();
+
+end)
+
+Tab1Section:NewButton("Prsion life Admin", "Join prsoin life", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/iZ64yzjE'))();
+
+end)
+
+Tab1Section:NewButton("Fly Gui V3", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/gNb0mYab"))();
+
+end)
+
+Tab1Section:NewButton("Keyboard 2.0", "What?", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+
+end)
+
+Tab1Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab1Section:NewTextBox("TextboxText", "TextboxInfo", function(txt)
+
+	print(txt)
+
+end)
+
+Tab2Section:NewButton("KAT GUI", "Join KAT", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+
+end)
+
+Tab2Section:NewButton("Axure Hub", "Join KAT", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AkkGamerBoy/Axure-Hub/main/Axure%20Hub"))()
+
+end)
+
+Tab2Section:NewButton("KATER HUB", "Join KAT", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KATERGaming/Roblox/main/KaterHub.Lua"))()
+
+end)
+
+Tab2Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab2Section:NewTextBox("TextBox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab3Section:NewButton("Mm2 Gui", "Join Mm2", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+
+end)
+
+Tab3Section:NewButton("Mm2 ", "Join Mm2", function()
+
+loadstring(game:HttpGet("https://pastebin.com/S9QF9tEq"))();
+
+end)
+
+Tab3Section:NewButton("Murder Mystery", "Join Mm2", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/wrpZmiAt'))()
+
+end)
+
+Tab3Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab3Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab4Section:NewButton("Adopt me Traed Scam", "Join adopt me", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/GWwBTRfk"))()
+
+end)
+
+Tab4Section:NewButton("Adopt me Speed Hub X", "Join adopt me", function()
+
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game"))()
+
+end)
+
+Tab4Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab4Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab5Section:NewButton("Ice Hub", "Join Brookhaven", function()
+
+loadstring (game: HttpGet ("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven")) ()
+
+end)
+
+Tab5Section:NewButton("Ice Hub Admin", "Join Brookhaven", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/IceHubAdmin/main/IceHub'))()
+
+end)
+
+Tab5Section:NewButton("Admin Cmds", "What?", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/3hDQcTaD'))()
+
+end)
+
+Tab5Section:NewButton("Infinity yield", "What?", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+end)
+
+Tab5Section:NewButton("Fly Gui V3", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/gNb0mYab"))();
+
+end)
+
+Tab5Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab5Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab6Section:NewButton("Adminus Blox fruits", "Join Blox script", function()
+
+loadstring(game:HttpGet('https://scripts.luawl.com/15951/Adminus-BloxFruits.lua'))()
+
+end)
+
+Tab6Section:NewButton("ZaqueHub", "Join Blox script", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+
+end)
+
+Tab6Section:NewButton("Blox fruits", "Join Blox script", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/bf2", true))()
+
+end)
+
+Tab6Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab6Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab7Section:NewButton("Meepcity", "Join Meepcity", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/mpcity/main/loader.lua",true))()
+
+end)
+
+Tab7Section:NewButton("Meepcracked", "Join Meepcity", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/synolope/meepcracked/main/loader.lua'))()
+
+end)
+
+Tab7Section:NewButton("Meepcity Destroyer", "Join Meepcity", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/mpcity/main/loader.lua",true))()
+
+end)
+
+Tab7Section:NewButton("Meepcity Kart", "Join Meepcity", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bannable666/Scripts/main/Meep.txt", true))()
+
+end)
+
+Tab7Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab7Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab8Section:NewButton("Youtube simulator Z autoclick", "Join Youtube Simulator Z", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0youtubez", true))()
+
+end)
+
+Tab8Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab8Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab9Section:NewButton("Arceus x", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/k4K77Jud"))()
+
+end)
+
+Tab9Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab9Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
+end)
+
+Tab10Section:NewButton("Vfly", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/nBmiEU4w"))();
+
+end)
+
+Tab10Section:NewButton("Vfly 2", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/F6h1GB40"))();
+
+end)
+
+Tab10Section:NewButton("Keyboard 2.0", "What?", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+
+end)
+
+Tab10Section:NewButton("Keyboard Size", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/xSsDaMg2"))();
+
+end)
+
+Tab10Section:NewButton("walk walls", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/zXk4Rq2r"))()
+
+end)
+
+Tab10Section:NewButton("Pendulum", "What?", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+
+end)
+
+Tab10Section:NewButton("Chiezzy Hub", "What?", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/zAuR0JUT"))()
+
+end)
+
+Tab10Section:NewSlider("Speed", "Speed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+Tab10Section:NewTextBox("Textbox", "Open /Console", function(txt)
+
+	print(txt)
+
